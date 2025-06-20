@@ -2,21 +2,21 @@
 # mcmanus
 
 ## Project Description
-This project is designed to [describe the main functionality and purpose of the project].
+A project focused on data analysis and visualization for business insights.
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- Data processing pipelines
+- Interactive dashboards
+- Customizable reports
 
 ## Technology Stack
-List of technologies used in the project.
+Python, Pandas, Matplotlib
 
 ## Installation
-Instructions on how to install the project.
+Clone the repository, set up a virtual environment, and run `pip install -r requirements.txt`.
 
 ## Usage
-Examples of how to use the project.
+Analyze your business data and gain valuable insights.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
